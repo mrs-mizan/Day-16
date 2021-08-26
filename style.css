@@ -1,0 +1,168 @@
+.header {
+	background-color: #101446;
+}
+.header-logo {
+	padding: 6px 15px;
+}
+.header-logo img {
+	width: 99px;
+}
+dl, ol, ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.header-menu ul li {
+	display: inline-block;
+	margin-left: -5px;
+}
+.header-menu ul li a {
+	text-decoration: none;
+	color: white;
+	padding: 27px 17px;
+	display: inline-block;
+	font-size: 13px;
+	text-transform: capitalize;
+	
+}
+
+/* slider-section */
+.slider{
+	background: url(./intro-bg.jpg) no-repeat center;
+	background-size: cover;
+	padding: 250px 0;
+}
+.slider-text {
+	margin-left: -150px;
+	margin-top: 163px;
+}
+.slider-text{}
+.slider-text h1{}
+.slider-text p {
+	width: 800px;
+	margin-left: 287px;
+}
+  
+/* our-team-css */
+.our-team {
+	background-color: #bac1f3;
+	padding: 100px 0;
+}
+.team-heading{}
+.team-heading h2 {
+	padding: 50px;
+	margin-top: 80px;
+	font-size: 69px;
+}
+.team-item {
+	text-align: center;
+}
+.team-item img{}
+.team-item h6 {
+	font-size: 23px;
+	padding: 6px;
+	text-align: center;
+}
+.team-item p {
+	width: 200px;
+	margin-left: 103px;
+}
+
+/* about-section */
+/* about-section */
+.about-us {
+	background-color: #c2d4ea;
+	padding: 100px 0;
+}
+.about-heading{}
+.about-heading h1{}
+.about-pic {
+	text-align: center;
+}
+.about-details {
+	text-align: center;
+	margin-left: -85px;
+	margin-top: 3px;
+}
+.about-details h1 {
+	font-size: 23px;
+	font-weight: 50;
+}
+.about-details h2 {
+	font-size: 24px;
+	margin-top: 10px;
+	font-weight: 50;
+}
+.about-details h3{}.about-details h3 {
+	font-size: 19px;
+	margin-top: 10px;
+	font-weight: 50;
+}
+.about-details p {
+	margin-left: -128px;
+	margin-top: 10px;
+	font-weight: 50;
+}
+.about-item-ph {
+	margin-top: 15px;
+	width: 550px;
+	margin-left: 54px;
+}
+.about-me{}
+.about-me h1 {
+	font-weight: 400;
+	font-size: 35px;
+	margin-top: 35px;
+}
+.about-me p {
+	font-weight: 50;
+}
+.about-me-down{}
+.about-me-down p {
+	font-size: 27px;
+	font-weight: 100;
+}
+.about-item-ph p {
+	font-weight: 50;
+}
+.about-pic img {
+	width: 184px;
+}
+
+/* contact-section */
+/* contact-section */
+.contact-us {
+	padding: 77px 0;
+}
+.contact{}
+.contact h1 {
+	font-size: 61px;
+	padding: 40px 0;
+	font-weight: 500;
+}
+.form{}
+.form label {
+	margin-bottom: 11px;
+	font-size: 21px;
+	font-weight: 400;
+}
+.form input {
+	padding: 5px 12px;
+	width: 100%;
+}
+
+/* footer-css */
+/* footer-css */
+.footer{
+	background-color: #0062d3;
+	
+}
+.footer-heading{}
+.footer-heading h1 {
+	font-size: 25px;
+	padding-top: 30px;
+}
+.footer-heading h3 {
+	font-size: 23px;
+	padding: 20px 0;
+}
